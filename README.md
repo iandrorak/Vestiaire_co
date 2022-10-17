@@ -7,8 +7,6 @@
 
 ## Goals 🎯
 
-## Machine Learning - `/predict` endpoint :computer:
-
 ## Deliverable 📬
 
 To sum up, to complete this project, we produced:
