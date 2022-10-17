@@ -9,7 +9,7 @@ Kevin GOUPIL
 
 Alexandre 
 
-## Context 
+## Context
 
 ## Goals 🎯
 
