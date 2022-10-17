@@ -15,7 +15,7 @@ Alexandre
 
 ## Deliverable 📬
 
-To sum up, to complete this project, we produced : 
+To complete this project, we produced : 
 
 - a notebook of our code
 - our models saved
