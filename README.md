@@ -3,15 +3,18 @@
 
 # Vestiaire Collective
 
+Iandro RAKOTONDRANDRIA
+Kevin Goupil
+Alexandre 
+
 ## Context 
 
 ## Goals 🎯
 
 ## Deliverable 📬
 
-To sum up, to complete this project, we produced:
+To sum up, to complete this project, we produced : 
 
-- A **dashboard** in production (accessible via a web page for example)
-- The **whole code** stored in a **Github repository**.
-- A **MLFlow tracking server** on Heroku to track our machine learing model
-- An **documented online API** on Heroku server `.
+- a notebook of our code
+- our models saved
+- our submissons to the contest
